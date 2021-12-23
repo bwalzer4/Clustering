@@ -19,4 +19,11 @@ The following steps detail the manual implementation of the K-medoids algorithm.
 
 ### K-Means
 
-K-means clustering algorithm is another unsupervised laearning approach that is nearly indentical to K-medoids, with the exception that the cluster centers are chosen using the mean of each cluster. 
+K-means clustering algorithm is another unsupervised laearning approach that is nearly indentical to K-medoids, with the exception that the cluster centers are chosen using the mean of each cluster. Using the mean of the data points within a cluster to chose the centroid often results in the cluster center not being one of the data points from the data set. This can be problematic when working with categorical data as mean center may not make sense. Another difference between the two methods is the computational complexity. Since K-means uses a simple mean calculation to determine the center of the cluster it requires much less computation time than K-medoids, which has to perform the PAM algorithm to determine cluster centers.
+
+### Image Compression Results
+
+Three images of varying sizes were chosen to compare performance on each method. Each image is shown below.
+
+
+
