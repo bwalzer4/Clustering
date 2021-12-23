@@ -29,9 +29,23 @@ Three images of varying sizes were chosen to compare performance on each method.
   </p>
 <figure>
   <p align="center">
-    <img src="?raw=True" />
+    <img src="https://github.com/bwalzer4/Clustering/blob/main/visuals/beach.bmp?raw=True" />
   </p>
 </figure>
 
+ <p align="center">
+  </p>
+<figure>
+  <p align="center">
+    <img src="https://github.com/bwalzer4/Clustering/blob/main/visuals/football.bmp?raw=True" />
+  </p>
+</figure>
 
+ <p align="center">
+  </p>
+<figure>
+  <p align="center">
+    <img src="https://github.com/bwalzer4/Clustering/blob/main/visuals/brooks.jpg?raw=True" />
+  </p>
+</figure>
 
