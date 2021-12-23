@@ -23,7 +23,15 @@ K-means clustering algorithm is another unsupervised laearning approach that is 
 
 ### Image Compression Results
 
-Three images of varying sizes were chosen to compare performance on each method. Each image is shown below.
+Three images of varying sizes were chosen to compare performance on each method. The figure below shows the original images and the compressed images at cluster sizes of 4, 8, 16, and 32.
+
+ <p align="center">
+  </p>
+<figure>
+  <p align="center">
+    <img src="?raw=True" />
+  </p>
+</figure>
 
 
 
