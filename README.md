@@ -78,3 +78,6 @@ The following table shows convergence and computing time for each image and k va
     <img src="https://github.com/bwalzer4/Clustering/blob/main/visuals/Comparison%20Table.png?raw=True" />
   </p>
 </figure>
+
+## Graph Classification with Spectral Clustering
+
