@@ -69,3 +69,12 @@ And the following picture shows the K-means Image Compression.
   </p>
 </figure>
 
+The following table shows convergence and computing time for each image and k value.
+
+<p align="center">
+  </p>
+<figure>
+  <p align="center">
+    <img src="https://github.com/bwalzer4/Clustering/blob/main/visuals/Comparison%20Table.png?raw=True" />
+  </p>
+</figure>
