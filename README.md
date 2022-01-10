@@ -3,7 +3,7 @@ Practical implementation of clustering algorithms.
 
 ## Image Compression using K-mean and K-Medoids Clustering
 
-Image compression is a type of method to reduce the storage and transmission size of a digital image. There are numerous compression techniques, but this project explores using  clustering algorithms to compress the pixels of a digital image. A mnaully implemented K-medoids clustering model is compared against scikit-learn K-means clustering.
+Image compression is a type of method to reduce the storage and transmission size of a digital image. There are numerous compression techniques, but this project explores using  clustering algorithms to compress the pixels of a digital image. A manaully implemented K-medoids clustering model is compared against scikit-learn K-means clustering.
 
 ### K-Medoids
 
