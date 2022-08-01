@@ -83,5 +83,5 @@ The following table shows convergence and computing time for each image and k va
 
 
 
-## Graph Classification with Spectral Clustering
+
 
